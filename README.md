@@ -25,6 +25,11 @@ Most AI education either teaches you to prompt a tool, or teaches you to build o
 
 > ⭐ **[Star this repo](https://github.com/Anil-matcha/ai-creator-academy/stargazers)** to bookmark it — new tracks and modules ship regularly.
 
+## Related Projects
+
+- [MuAPI model playground](https://muapi.ai/playground) — Explore the generative-media models used throughout the curriculum.
+- [MuAPI white-label studio](https://muapi.ai/white-label) — Turn a generative-media workflow into a branded product.
+
 ## Why this exists
 
 Paid communities teaching this (Skool/Whop-style, $47–$97/mo) already cluster around exactly these niches — the demand is proven. What's missing is a version that's free, that cites real numbers instead of vague income claims, and that treats "how do I actually get paid for this" as the main subject instead of an afterthought bolted onto a tool tutorial.
