@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=SC9zJ6AxDek">
-    <img src="docs/assets/video-20-thumbnail.png" alt="AI Creator Academy: The Free Course Paid Communities Don't Want You to Find" width="640">
+    <img src="https://i.ytimg.com/vi/SC9zJ6AxDek/maxresdefault.jpg" alt="AI Creator Academy: The Free Course Paid Communities Don't Want You to Find" width="640">
   </a>
 </p>
 
